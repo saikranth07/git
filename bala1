@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Practising the echo
 
 my wife is beautiful 
@@ -9,7 +10,16 @@ This is the second command
 this is the example of the git merge
 >>>>>>> 8b0c8b3 (Update bala1)
 =======
+this is the fist command 
+This is the second command 
+this is the example of the git merge
+>>>>>>> master
+=======
 Practising the echo
 
 my wife is beautiful 
+<<<<<<< HEAD
 >>>>>>> 10e4beb01f27eed3af36325f62dc1613d237fb0d
+=======
+>>>>>>> a155eb8 (Update saikranth1)
+>>>>>>> master
